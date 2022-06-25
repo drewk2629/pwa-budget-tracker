@@ -9,3 +9,8 @@ This app can be used online or offline to track your expenses and budget how you
   <li>IndexedDB</li> 
   <li>Service Workers</li> 
   <li>MongoDB (Atlas)</li>
+</ul>
+  
+## Deployed
+
+This app has not yet been deployed on Heroku.
